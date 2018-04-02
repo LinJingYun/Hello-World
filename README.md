@@ -1,3 +1,3 @@
 # Hello-World
 My first respository.
-I'm a freshman,I'm practising.
+I'm a freshman,I'm practicing.
